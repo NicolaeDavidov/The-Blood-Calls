@@ -1,10 +1,10 @@
 # The-Blood-Calls
 by Nicolae Davidov
 
-Hello there, my name is Nicolae Davidov and I'm a third year student at **University of Sussex** studying **(BSc) Games and Multimedia Environment**. I've created a few projects along the way in my university life (some alright some awful). Currently I'm working on my **dissertation** which is a ARPG/Hack and Slash game in **Unity**.
+Hello there, my name is Nicolae Davidov and I'm a third year student at **University of Sussex** studying **(BSc) Games and Multimedia Environment**. I've created a few projects along the way in my university life (some alright some awful). Currently I'm working on my **dissertation** which is a fast paced ARPG/Hack and Slash game in **Unity**.
 
 ## Story
-
+You will be playing as the main character Goraan, his is on a hunting trip and has't been home in a few days. Your task is to find him, search every village and cave to bring him back home.
 
 
 Here are some pictures:
