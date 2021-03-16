@@ -8,9 +8,11 @@ Here are some pictures:
 # The-Blood-Calls
 The Blood Calls 
 1. Town 1
+![](Assets/1.PNG)
 
 3. Town 2
-4. Town 3
+
+5. Town 3
 
 ## Gameplay
 https://user-images.githubusercontent.com/64851435/111297458-8d837480-8645-11eb-8d6d-fd3ba3d1427d.mp4
