@@ -8,7 +8,7 @@ Here are some pictures:
 # The-Blood-Calls
 The Blood Calls 
 1. Town 1
-![GitHub Logo](assets/7.png)
+
 3. Town 2
 4. Town 3
 
