@@ -3,6 +3,10 @@ by Nicolae Davidov
 
 Hello there, my name is Nicolae Davidov and I'm a third year student at **University of Sussex** studying **(BSc) Games and Multimedia Environment**. I've created a few projects along the way in my university life (some alright some awful). Currently I'm working on my **dissertation** which is a ARPG/Hack and Slash game in **Unity**.
 
+## Story
+
+
+
 Here are some pictures:
 
 1. Town 1
@@ -18,7 +22,25 @@ Here are some pictures:
 ![](Assets/4.PNG)
 3. Inventory UI
 ![](Assets/6.PNG)
-5. 
-
 ## Gameplay
+
+Here are a few seconds of some very **early stage** gameplay
+
 https://user-images.githubusercontent.com/64851435/111297458-8d837480-8645-11eb-8d6d-fd3ba3d1427d.mp4
+
+## Development
+
+This game is still in it's **early stages**, there will be much more content added such as:
+1. Shop keeper & currency
+2. Ability powers
+3. Spawn points
+4. Many different weapons
+5. Lots of enemies
+6. 
+
+### Contact
+You can find me here for any reason.
+
+https://www.linkedin.com/in/nicolae-davidov-8b45aa1b0
+
+### Thank you for taking the time to be here!
