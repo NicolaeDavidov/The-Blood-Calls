@@ -36,7 +36,6 @@ This game is still in it's **early stages**, there will be much more content add
 3. Spawn points
 4. Many different weapons
 5. Lots of enemies
-6. 
 
 ### Contact
 You can find me here for any reason.
