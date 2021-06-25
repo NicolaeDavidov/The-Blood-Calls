@@ -32,14 +32,12 @@ https://user-images.githubusercontent.com/64851435/111297458-8d837480-8645-11eb-
 
 This game is still in it's **early stages**, there will be much more content added such as:
 1. Shop keeper & currency
-2. Ability powers
-3. Spawn points
-4. Many different weapons
-5. Lots of enemies
+2. Spawn points
+3. Many different weapons
+4. Lots of enemies
 
 ### Contact
 You can find me here for any reason.
 
 https://www.linkedin.com/in/nicolae-davidov-8b45aa1b0
 
-### Thank you for taking the time to be here!
